@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41529352097",
+    "project_id": "fir-mlkit-ocr-707ad",
+    "storage_bucket": "fir-mlkit-ocr-707ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41529352097:android:41b1f6d4142f92dcdf35e0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_mlkit_ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41529352097-qt3t2mq1937cm48n3g1chk2a2uet94qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfEpNmvHYsTzdgfZdrRJtdFGLKWhq_P8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41529352097-qt3t2mq1937cm48n3g1chk2a2uet94qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
